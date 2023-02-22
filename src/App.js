@@ -87,6 +87,7 @@ function App() {
                 <div className="flex">
                   {/* <img src={datas.item.emoji} alt="Img" /> */}
                   <img
+                    className="w-12 h-12"
                     src={`https://www.countryflagicons.com/FLAT/48/${datas.item.code}.png`}
                   ></img>
                   <div className="flex flex-col ml-1">
