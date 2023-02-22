@@ -68,7 +68,7 @@ function App() {
   return (
     <>
       <div className=" flex flex-col justify-center mx-auto w-[320px] sm:mt-20 mt-10 bg-white border ">
-        <h1 className="text-2xl mx-2 ">Countriess</h1>
+        <h1 className="text-2xl mx-2 ">Countries</h1>
         <input
           className="px-10 border-black border-[3px] mt-5 mx-2 rounded-lg"
           placeholder="Search by country code"
