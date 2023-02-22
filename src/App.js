@@ -56,7 +56,6 @@ function App() {
       };
     });
 
-  console.log(vitalData);
   const handleClick = (e) => {
     setSearch(e.target.value);
     setShown(true);
